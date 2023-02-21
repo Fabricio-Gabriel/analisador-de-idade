@@ -1,0 +1,43 @@
+body {
+    background-color: #1a66f3;
+}
+
+header {
+    color: #ffff;
+    font: normal 15pt Arial;
+    text-align: center;
+}
+
+section {
+    background-color: #ffff;
+    height: 450px;
+    width: 550px;
+    margin: auto;
+    margin-top: 75px;
+    padding: 10px;
+    border-radius: 15px;
+    box-shadow: 5px 5px 10px;
+}
+
+div#container {
+    padding: 5px;
+    font: normal 15pt Arial;
+}
+
+input#ano {
+    border-radius: 15px;
+}
+
+div#res {
+    font: normal 15pt Arial;
+    text-align: center;
+}
+
+div#imagens img {
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10px;
+    border-radius: 350px;
+    box-shadow: 5px 5px 5px black;
+    display: flex;
+}
